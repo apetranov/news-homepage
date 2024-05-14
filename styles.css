@@ -20,3 +20,12 @@ body {
 h1  {
     font-family: myFontExtraBold;
 }
+
+h2  {
+    font-family: myFontBold;
+}
+
+/* 
+.btn {
+    font-family: myFontBold;
+} */
