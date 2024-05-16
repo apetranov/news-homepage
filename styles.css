@@ -25,6 +25,11 @@ h2  {
     font-family: myFontBold;
 }
 
+.menu {
+    position: fixed;
+    z-index: 1000;
+}
+
 /* 
 .btn {
     font-family: myFontBold;
